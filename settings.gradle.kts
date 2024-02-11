@@ -13,5 +13,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "To do list app"
+rootProject.name = "QUOTE OF THE DAY APP"
 include(":app")
